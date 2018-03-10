@@ -1,4 +1,4 @@
-## Testing out RN with nem-sdk
+## NEM-sdk-with-ReactNative
 
 Trying to get nem-sdk worked in ReactNative but not working...
 
