@@ -19,3 +19,12 @@ Trying to get nem-sdk worked in ReactNative but not working...
 - Started with Expo => didn't work
 - Restarted with `create-react-native-app`
 - Needed to `yarn eject` to run `react-native link`
+
+### Ref
+- https://github.com/QuantumMechanics/NEM-sdk
+- https://github.com/parshap/node-libs-react-native
+- https://github.com/philikon/ReactNativify
+- https://github.com/tradle/rn-nodeify
+- https://github.com/browserify/browserify
+- https://expo.io/
+- https://github.com/react-community/create-react-native-app/blob/master/EJECTING.md
